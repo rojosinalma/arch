@@ -1,8 +1,6 @@
 ! xrdb -load ~/.Xdefaults
 
-xterm*foreground: #f8f8f2
-xterm*background: #1e1f29
-xterm*cursorColor: #bbbbbbG
+#include "/home/rojo/Downloads/Xresources-themes/iterm-Dracula.Xresources"
 
 xterm*saveLines: 10000
 xterm*faceName: BitStream Vera Sans Mono
@@ -10,3 +8,5 @@ xterm*faceSize: 16
 xterm*toolBar: On
 
 xterm*rightScrollBar: true
+
+
